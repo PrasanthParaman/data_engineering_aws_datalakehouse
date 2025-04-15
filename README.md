@@ -5,6 +5,7 @@ This repository contains an AWS Lakehouse ETL pipeline built using **AWS Glue**,
 ---
 
 ## Project Structure
+```text
 project-root/
 ├── scripts/                  # All Glue job scripts (Python + SQL)
 │   ├── customer_landing_to_trusted.py
@@ -28,6 +29,7 @@ project-root/
 │   └── all_glue_tables.png
 │
 └── README.md
+```
 
 
 ---
